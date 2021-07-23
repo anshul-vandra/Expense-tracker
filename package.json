@@ -1,6 +1,5 @@
 {
   "name": "expense-tracker-react",
-  "homepage": "https://anshul-vandra.github.io/Expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
